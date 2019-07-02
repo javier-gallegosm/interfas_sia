@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package siareqlo;
+package sia;
 
 /**
  *
  * @author CASA
  */
-public class Siareqlo {
+public class sia {
 
     /**
      * @param args the command line arguments
